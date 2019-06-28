@@ -1,2 +1,0 @@
-# pLakAtiK
-Mortality analysis 
